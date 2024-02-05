@@ -20,13 +20,9 @@ Contributions are welcome!If you find bugs, improvements or want to add new feat
 
 ## Development Notes
 This project was developed with simplicity in mind, providing a friendly experience for beginner Python users.
+Enjoy and explore the source code!
 
-##Enjoy and explore the source code!
-
-
-
-Notas de Desenvolvimento
-
-* Este projeto foi desenvolvido com simplicidade em mente, proporcionando uma experiência amigável para usuários iniciantes em Python. 
+## Notas de Desenvolvimento
+This project was developed with simplicity in mind, providing a friendly experience for beginner Python users.
 
 ## Aproveite e explore o código-fonte!
